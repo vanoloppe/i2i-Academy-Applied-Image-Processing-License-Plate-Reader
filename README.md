@@ -1,5 +1,5 @@
 # i2i-Academy-Applied-Image-Processing-License-Plate-Reader
-#Theoretical Knowledge
+# Theoretical Knowledge
 1-What is the main difference between "Computer Vision" and classical "Image Processing"?
 - The main difference is whether the systems understand the image or not. While the input is an image in both; the output in image processing is another image, whereas in computer vision, the output is the meaning, data, or decision extracted from that image.
 
